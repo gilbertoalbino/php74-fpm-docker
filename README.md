@@ -30,6 +30,8 @@ Abra o navegador em __http://localhost__ e pronto!
 
 Você deverá ver a tela do `phpinfo()`.
 
+Daí pra frente espero que você saiba o que fazer! :P
+
 
 
 
